@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Central Nucleus Circle -->
+  <circle cx="50" cy="50" r="10" stroke="white" stroke-width="3.5" />
+  <!-- Vertical Orbital Ellipse -->
+  <ellipse cx="50" cy="50" rx="19.5" ry="46" stroke="white" stroke-width="3.5" />
+  <!-- Horizontal Orbital Ellipse -->
+  <ellipse cx="50" cy="50" rx="46" ry="19.5" stroke="white" stroke-width="3.5" />
+</svg>
